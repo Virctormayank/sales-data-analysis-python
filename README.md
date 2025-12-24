@@ -24,7 +24,7 @@ This project analyzes a retail sales dataset to understand sales performance acr
 # Visualizations
 
  Sales by Category
-![Category Sales](sales_category.png)
+![Category Sales](sales_by_category.png)
 
  Sales by Market
 ![Market Sales](sales_by_market.png)
